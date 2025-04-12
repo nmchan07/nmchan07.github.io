@@ -9,11 +9,11 @@ html, body {
 
 /* Navbar and Footer Styling */
 nav {
-    background-color: #CC0000 !important; 
+    background-color: #ffcdd2 !important; 
 }
 
 footer.page-footer {
-    background-color: #CC0000 !important; 
+    background-color: #ffcdd2 !important; 
     margin-top: auto; /* Push footer to the bottom */
     color: white;
 }
